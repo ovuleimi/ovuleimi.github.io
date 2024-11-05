@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovuleimi.github.io/Dbc/sitemap_index.txt
+Sitemap: https://ovuleimi.github.io/FJc/sitemap_index.txt
+Sitemap: https://ovuleimi.github.io/HgI/sitemap_index.txt
+Sitemap: https://ovuleimi.github.io/Myh/sitemap_index.txt
